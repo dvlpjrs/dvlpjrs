@@ -1,5 +1,5 @@
 ## Jyoti Ranjan Swain @dvlp-jrs
-<br>
+
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdvlp-jrs&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=true)](https://hits.seeyoufarm.com)
 [![Tech Blog Badge](https://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://blog.topcoders.club/author/jrs/)](https://blog.topcoders.club/author/jrs/) 
